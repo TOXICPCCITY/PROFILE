@@ -1,7 +1,7 @@
 # TOXIC | Systems Developer
 
 <p align="center">
-  <img src="[Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&pause=1000&color=423CFF&width=435&lines=C%23+%26+PYTHON;C%2B%2B+%26+RUST;REVERSE+ENGINEERING;AUTOMATION+%26+TOOLING;CUSTOMIZE+EMULATOR+;WINDOWS+OPTIMIZATION;ANDROID+OPTIMIZATIONS;CYBER+SECURITY)](https://git.io/typing-svg)" />
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&pause=1000&color=423CFF&width=435&lines=C%23+%26+PYTHON;C%2B%2B+%26+RUST;REVERSE+ENGINEERING;AUTOMATION+%26+TOOLING;CUSTOMIZE+EMULATOR+;WINDOWS+OPTIMIZATION;ANDROID+OPTIMIZATIONS;CYBER+SECURITY)](https://git.io/typing-svg) />
 </p>
 
 <p align="center">
