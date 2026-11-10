@@ -1,7 +1,9 @@
 # TOXIC | Systems Developer
 
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&pause=1000&color=423CFF&width=435&lines=C%23+%26+PYTHON;C%2B%2B+%26+RUST;REVERSE+ENGINEERING;AUTOMATION+%26+TOOLING;CUSTOMIZE+EMULATOR+;WINDOWS+OPTIMIZATION;ANDROID+OPTIMIZATIONS;CYBER+SECURITY)](https://git.io/typing-svg) />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Redaction+35&pause=1000&color=423CFF&width=435&lines=C%23+%26+PYTHON;C%2B%2B+%26+RUST;REVERSE+ENGINEERING;AUTOMATION+%26+TOOLING;CUSTOMIZE+EMULATOR;WINDOWS+OPTIMIZATION;ANDROID+OPTIMIZATIONS;CYBER+SECURITY" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -12,12 +14,12 @@
 
 ## About Me
 
-I'm a developer interested in low-level programming, software internals, automation, reverse engineering and performance optimization.
+I'm a developer interested in low-level programming, software internals, automation, reverse engineering, and performance optimization.
 
 I enjoy exploring how software works internally and building custom tools that solve practical problems.
 
 - Developing native applications and automation tools.
-- Working with C++, C#, Rust and Python.
+- Working with C++, C#, Rust, and Python.
 - Exploring reverse engineering and decompilation.
 - Experimenting with AOT compilation and native software.
 - Developing Windows and PC optimization utilities.
@@ -38,7 +40,7 @@ I enjoy exploring how software works internally and building custom tools that s
 | Automation | Custom automation and scripting tools |
 | Reverse Engineering | Software analysis and decompilation |
 | Compilation | AOT and native compilation |
-| Optimization | Windows, PC and mobile performance |
+| Optimization | Windows, PC, and mobile performance |
 | Custom Utilities | Developer tools and system utilities |
 
 ## Featured Project
